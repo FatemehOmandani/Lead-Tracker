@@ -2,8 +2,11 @@
 This is a practice project to improve my skills in:
 
 JavaScript fundamentals
+
 DOM manipulation
+
 Working with browser APIs (Chrome extensions)
+
 Handling local storage
 
 
